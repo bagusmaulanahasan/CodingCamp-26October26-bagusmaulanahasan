@@ -1,0 +1,218 @@
+{
+  "pbtResults": {
+    "2.2 Write property test for empty-field validation": {
+      "status": "passed",
+      "lastRunTimestamp": 1793335558207
+    }
+  },
+  "executionHistory": {
+    "1.1 Create `index.html` with the single-column DOM structure": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333314422
+      },
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333332351
+      },
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793334472924
+      }
+    ],
+    "1.2 Create `css/styles.css` with the theme system and responsive layout": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333316146
+      },
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333337371
+      },
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793334473315
+      }
+    ],
+    "2.1 Implement `State` shape, `createInitialState`, input validation, and helpers": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333316465
+      },
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333341935
+      },
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793334473118
+      }
+    ],
+    "2.2 Write property test for empty-field validation": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333316884
+      },
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793334512805
+      }
+    ],
+    "2.3 Implement transaction operations and derived aggregates": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333317272
+      },
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793334517805
+      }
+    ],
+    "2.4 Write property test for transaction creation preserving input": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333317431
+      }
+    ],
+    "2.5 Write property test for delete idempotency": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333317750
+      }
+    ],
+    "2.6 Write property test for total balance equals the sum": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333317982
+      }
+    ],
+    "2.7 Write property test for category aggregation": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333318213
+      }
+    ],
+    "2.8 Write property test for the creation month tag": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333318399
+      }
+    ],
+    "2.9 Write property test for monthly summary totals": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333318630
+      }
+    ],
+    "2.10 Implement sorting, custom categories, and spending limit logic": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333318780
+      }
+    ],
+    "2.11 Write property test for sort by amount": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333318935
+      }
+    ],
+    "2.12 Write property test for sort by category": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333319132
+      }
+    ],
+    "2.13 Write property test for custom category participation": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333319297
+      }
+    ],
+    "2.14 Write property test for spending limit highlight": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333319450
+      }
+    ],
+    "3. Checkpoint - Verify the model layer": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333319749
+      }
+    ],
+    "4.1 Implement `StorageAdapter` with LocalStorage and an in-memory fallback": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333320110
+      }
+    ],
+    "4.2 Write property test for full state round-trip": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333320302
+      }
+    ],
+    "5.1 Implement render functions and theme application": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333320464
+      }
+    ],
+    "5.2 Write property test for transaction list rendering": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333320647
+      }
+    ],
+    "5.3 Implement controllers and wire all event listeners plus app initialization": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333320814
+      }
+    ],
+    "5.4 Write property test for theme toggle": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333320953
+      }
+    ],
+    "6. Final checkpoint - Verify the full application": [
+      {
+        "executionId": "5f70577c-6968-47af-b35b-b0ee8103fab6",
+        "chatSessionId": "sess_1867df63-d5cc-4cd2-9aa0-c4fedcb8acf5",
+        "timestamp": 1793333321164
+      }
+    ]
+  }
+}
